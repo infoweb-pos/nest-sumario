@@ -17,4 +17,4 @@
 
 ## Usando agentes para desenvolver uma API
 
-1. [CRUD](https://github.com/infoweb-pos/2026-api-introducao)
+1. [CRUD com o Google Antigravity](https://github.com/infoweb-pos/2026-api-introducao)
